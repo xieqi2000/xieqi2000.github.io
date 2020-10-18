@@ -7,7 +7,7 @@
 
 2. 欢迎大家光临我的[小花园](http://www.iqeix.icoc.cc/)
 
-3. 我还将提供我的
+3. 我还将提供我的 ![微信公众号二维码](Pictures_lib/qrcode.jpg)
 
 
 
