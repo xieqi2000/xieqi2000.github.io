@@ -1,7 +1,13 @@
-### 20201018
-*我的第一篇blog*
+# 20201018
+## 我的第一篇github日记
 
+这里面是我想**强调**的事情，还有我的 _斜体字_,还有一些我的小的注意事项
 
+1. md语言中的换行需要空出来一行（我这里1. 后面加了空格，所以会有自动制表tab）
+
+2. 欢迎大家光临我的[小花园](http://www.iqeix.icoc.cc/)
+
+3. 我还将提供我的
 
 
 
@@ -40,7 +46,7 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Jekyll Themes:
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xieqi2000/xieqi2000.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
